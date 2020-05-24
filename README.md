@@ -15,7 +15,7 @@
 
     $ cd Network-Scanner
 
-    $ python3 NetScanner.py -ip 192.168.1.1 or python3 NetScanner.py -ip 192.168.1.1/24
+    $ python3 NetScanner.py -ip 192.168.1.1 or python3 NetScanner.py --ip 192.168.1.1/24
   
  NetScanner arguments
 -----
@@ -33,9 +33,9 @@
 
 **Scan Network**
 
-     $ python3 NetScanner.py -i 192.168.1.1 or python3 NetScanner.py -ip 192.168.1.1
+     $ python3 NetScanner.py -i 192.168.1.1 or python3 NetScanner.py --ip 192.168.1.1
 
-     $ python3 NetScanner.py -i 192.168.1.1/24 or python3 NetScanner.py -ip 192.168.1.1/24
+     $ python3 NetScanner.py -i 192.168.1.1/24 or python3 NetScanner.py --ip 192.168.1.1/24
   
   
   
